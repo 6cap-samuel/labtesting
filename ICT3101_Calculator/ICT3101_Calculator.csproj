@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.11.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="SpecFlow" Version="3.0.225" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.0.225" />
+    <PackageReference Include="SpecFlow.NUnit.Runners" Version="3.0.225" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.0.225" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Step_Definitions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Step_Definitions\CalculatorAddStepDefinition %28copy%29.cs" />
+    <Compile Remove="Features\Features\TestingTime.feature.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <SpecFlowFeatureFiles Remove="Features\Features\Calculator.feature" />
+    <SpecFlowFeatureFiles Remove="Features\Features\TestingTime.feature" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Features\Features\.DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorBasicReliability.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorBasicReliability.feature.cs</LastGenOutput>
+      <Visible>False</Visible>
+    </SpecFlowFeatureFiles>
+  </ItemGroup>
+  <ItemGroup>
+    <SpecFlowObsoleteCodeBehindFiles Update="Features\UsingCalculatorBasicReliability.feature.cs">
+      <DependentUpon>UsingCalculatorBasicReliability.feature</DependentUpon>
+    </SpecFlowObsoleteCodeBehindFiles>
+  </ItemGroup>
+</Project>

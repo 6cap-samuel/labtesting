@@ -1,0 +1,15 @@
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/ICT3101_Calculator.deps.json
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/ICT3101_Calculator.runtimeconfig.json
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/ICT3101_Calculator.runtimeconfig.dev.json
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/ICT3101_Calculator.dll
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/ICT3101_Calculator.pdb
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.csprojAssemblyReference.cache
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.csproj.CoreCompileInputs.cache
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.AssemblyInfoInputs.cache
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.AssemblyInfo.cs
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.dll
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp2.2/ICT3101_Calculator.pdb
+/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp2.2/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll

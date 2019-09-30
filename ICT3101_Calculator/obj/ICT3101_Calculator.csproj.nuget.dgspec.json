@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/ICT3101_Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/ICT3101_Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/ICT3101_Calculator.csproj",
+        "projectName": "ICT3101_Calculator",
+        "projectPath": "/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/ICT3101_Calculator.csproj",
+        "packagesPath": "/Users/samueltoh/.nuget/packages/",
+        "outputPath": "/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/samueltoh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.0.225, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

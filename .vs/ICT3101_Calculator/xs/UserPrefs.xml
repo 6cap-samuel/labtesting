@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{82CFC04E-88EC-4CA3-BAB6-E2736FF0B7CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".travis.yml">
+    <Files>
+      <File FileName="ICT3101_Calculator/Calculator.cs" Line="111" Column="1" />
+      <File FileName="ICT3101_Calculator/Features/Calculator.feature" Line="3" Column="28" />
+      <File FileName="ICT3101_Calculator/Features/Calculator.feature.cs" Line="7" Column="26" />
+      <File FileName="ICT3101_Calculator/Features/.DS_Store" Line="1" Column="6149" />
+      <File FileName="ICT3101_Calculator/Features/UsingCalculatorBasicReliability.feature" Line="13" Column="5" />
+      <File FileName="ICT3101_Calculator/Features/UsingCalculatorBasicReliability.feature.cs" Line="4" Column="33" />
+      <File FileName="ICT3101_Calculator/Step_Definitions/CalculatorStepDefinition.cs" Line="26" Column="14" />
+      <File FileName="ICT3101_Calculator/CalculatorTests.cs" Line="21" Column="10" />
+      <File FileName="ICT3101_Calculator/Features/UsingCalculatorBasicReliability.feature" Line="9" Column="4" />
+      <File FileName=".travis.yml" Line="2" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICT3101_Calculator" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="ICT3101_Calculator" expanded="True">
+              <Node name="Step_Definitions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ICT3101_Calculator" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ICT3101__Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/Calculator.cs" relfile="ICT3101_Calculator/Calculator.cs" line="59" column="1" />
+      <Breakpoint file="/Users/samueltoh/Projects/ICT3101_Calculator/ICT3101_Calculator/Step_Definitions/CalculatorStepDefinition.cs" relfile="ICT3101_Calculator/Step_Definitions/CalculatorStepDefinition.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
